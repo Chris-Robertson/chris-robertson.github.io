@@ -1,0 +1,23 @@
+{
+  "name": "chris-robertson.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "presskit build -LM -o .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chris-Robertson/chris-robertson.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chris-Robertson/chris-robertson.github.io/issues"
+  },
+  "homepage": "https://github.com/Chris-Robertson/chris-robertson.github.io#readme",
+  "dependencies": {
+    "presskit": "^0.13.0"
+  }
+}
