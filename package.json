@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/Chris-Robertson/chris-robertson.github.io#readme",
   "dependencies": {
-    "presskit": "^0.13.0"
+    "presskit": "^0.14.0"
   }
 }
